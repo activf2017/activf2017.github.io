@@ -29,4 +29,10 @@ http://activf2017.blogspot.com/ - Переходим!
 
 <a href="https://activf2017.blogspot.ru/"><img alt="Актив студия фитнеса Королёв" src="https://goo.gl/gjB9GV" height="31" width="88" border="0" /></a>
 
+!тел. +79166019482 Софья Богданова 
+
+http://activf2017.blogspot.com/ - Переходим!
+[Основной сайт - полная информация](http://activf2017.blogspot.com/)
+
+
 
