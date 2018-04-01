@@ -44,7 +44,3 @@ http://activf2017.blogspot.com/ - Переходим!
     h.appendChild(s);
   }})();</script>
 <div class="pluso" data-background="#ebebeb" data-options="small,square,line,horizontal,counter,theme=04" data-services="vkontakte,odnoklassniki,facebook,twitter,google,pinterest,moimir,tumblr,instapaper" data-url="https://github.com/activf2017" data-title="Актив фитнес студия Королёв " data-user="28998317"></div>`
-
-git fetch origin 
-git checkout -b activf2017-patch-1 origin / activf2017-patch-1 
-git merge activf2017
