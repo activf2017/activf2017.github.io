@@ -34,4 +34,15 @@ http://activf2017.blogspot.com/ - Переходим!
 http://activf2017.blogspot.com/ - Переходим!
 [Основной сайт - полная информация](http://activf2017.blogspot.com/)
 
+`<script type="text/javascript">(function() {
+  if (window.pluso)if (typeof window.pluso.start == "function") return;
+  if (window.ifpluso==undefined) { window.ifpluso = 1;
+    var d = document, s = d.createElement('script'), g = 'getElementsByTagName';
+    s.type = 'text/javascript'; s.charset='UTF-8'; s.async = true;
+    s.src = ('https:' == window.location.protocol ? 'https' : 'http')  + '://share.pluso.ru/pluso-like.js';
+    var h=d[g]('body')[0];
+    h.appendChild(s);
+  }})();</script>
+<div class="pluso" data-background="#ebebeb" data-options="small,square,line,horizontal,counter,theme=04" data-services="vkontakte,odnoklassniki,facebook,twitter,google,pinterest,moimir,tumblr,instapaper" data-url="https://github.com/activf2017" data-title="Актив фитнес студия Королёв " data-user="28998317"></div>`
+
 
