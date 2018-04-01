@@ -24,3 +24,9 @@ http://activf2017.blogspot.com/ - automatic!
 ![Актив фитнес студия Королёв](https://github.com/activf2017/Activ-fitness-Korolev-studio/blob/master/%D1%81%D0%BE%D0%BD%D1%8F%20%D1%80%D0%B0%D1%81%D1%82-ANIMATION.gif?raw=true)
 
 контакт E-mail: activf2017@gmail.com
+
+!тел. +79166019482 Софья Богданова 
+
+http://activf2017.blogspot.com/ - Переходим!
+[Основной сайт - полная информация](http://activf2017.blogspot.com/)
+
