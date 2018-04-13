@@ -34,7 +34,7 @@ http://activf2017.blogspot.com/ - Переходим!
 [https://activf2017.blogspot.ru/](https://activf2017.blogspot.com/)
 
 <p align="center"> 
-<a href="https://activf2017.blogspot.ru/"><img alt="Актив студия фитнеса Королёв" src="https://goo.gl/gjB9GV" height="31" width="88" border="0" /></a>
+<a href="https://activf2017.blogspot.com/"><img alt="Актив студия фитнеса Королёв" src="https://goo.gl/gjB9GV" height="31" width="88" border="0" /></a>
 </p>
 
 !тел. +79166019482 Софья Богданова 
