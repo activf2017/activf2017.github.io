@@ -26,7 +26,7 @@ http://activf2017.blogspot.com/ - Переходим!
 
 <p align="center">
 <a href="https://activf2017.blogspot.com/">
-<img alt="Актив студия фитнеса Королёв" src="https://github.com/activf2017/Activ-fitness-Korolev-studio/blob/master/%D1%81%D0%BE%D0%BD%D1%8F%20%D1%80%D0%B0%D1%81%D1%82-ANIMATION.gif?raw=true" height="380" width="400" border="0" /></a></p>
+<img alt="Актив студия фитнеса Королёв" src="https://github.com/activf2017/Activ-fitness-Korolev-studio/blob/master/%D1%81%D0%BE%D0%BD%D1%8F%20%D1%80%D0%B0%D1%81%D1%82-ANIMATION.gif?raw=true" /></a></p>
 
 [Актив фитнес студия Королёв](https://activf2017.blogspot.com/)
 
