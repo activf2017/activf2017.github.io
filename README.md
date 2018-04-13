@@ -21,20 +21,24 @@ http://activf2017.blogspot.com/ - Переходим!
 
 ### Актив фитнес студия Королёв. Заниматься может любой желающий, даже если у вас нет спортивного прошлого, вне зависимости от возраста и уровня подготовки. В нашем клубе вы встретите единомышленников, людей, которые так же как и вы хотят вести здоровый образ жизни. Вы проведете время с пользой и удовольствием!
 
-### Актив фитнес студия Адрес: 
-### 141077 г. Королев, Октябрьский бульвар, дом 5.
+### Актив фитнес студия Адрес:141077 
+### г. Королев, Октябрьский бульвар, дом 5.
 
 <p align="center"> 
 <img src="https://github.com/activf2017/Activ-fitness-Korolev-studio/blob/master/%D1%81%D0%BE%D0%BD%D1%8F%20%D1%80%D0%B0%D1%81%D1%82-ANIMATION.gif?raw=true">
 </p>
 
-[Актив фитнес студия Королёв](https://activf2017.blogspot.ru/)
+[Актив фитнес студия Королёв](https://activf2017.blogspot.com/)
 
 ![Мы ждем Вас!](https://4.bp.blogspot.com/-Vozw--6GEa8/WraWA26N2bI/AAAAAAAAAU8/4e-lxnOtVRwejgg77jOfKKXkO4o7J1-IwCEwYBhgL/s1600/%25D0%2590%25D0%25BA%25D1%2582%25D0%25B8%25D0%25B2%2B%25D0%259A%25D0%25BE%25D1%2580%25D0%25BE%25D0%25BB%25D0%25B5%25D0%25B2.jpg)
 
-[https://activf2017.blogspot.ru/](https://activf2017.blogspot.ru/)
+[https://activf2017.blogspot.ru/](https://activf2017.blogspot.com/)
 
-<center><a href="https://activf2017.blogspot.ru/"><img alt="Актив студия фитнеса Королёв" src="https://goo.gl/gjB9GV" height="31" width="88" border="0" /></a></center>
+<a href="https://activf2017.blogspot.ru/"><img alt="Актив студия фитнеса Королёв" src="https://goo.gl/gjB9GV" height="31" width="88" border="0" /></a>
+
+<p align="center"> 
+<a href="https://activf2017.blogspot.ru/"><img alt="Актив студия фитнеса Королёв" src="https://goo.gl/gjB9GV" height="31" width="88" border="0" /></a>
+</p>
 
 !тел. +79166019482 Софья Богданова 
 
