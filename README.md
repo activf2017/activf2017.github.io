@@ -1,7 +1,8 @@
 ### Актив фитнес студия Королёв 
 
-<p align="center"> 
-<img src="https://avatars1.githubusercontent.com/u/37883500?s=200&v=4">
+<p align="center">
+<a href="https://activf2017.blogspot.com/">
+<img alt="Актив студия фитнеса Королёв" src="https://avatars1.githubusercontent.com/u/37883500?s=200&v=4"/></a>
 </p>
 
 http://activf2017.blogspot.com/ - Переходим!
