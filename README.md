@@ -1,6 +1,8 @@
-###Актив фитнес студия Королёв 
+### Актив фитнес студия Королёв 
 
-![Актив фитнес студия Королёв](https://avatars1.githubusercontent.com/u/37883500?s=200&v=4)
+![Актив фитнес студия Королёв](<p align="center"> 
+<img src="https://avatars1.githubusercontent.com/u/37883500?s=200&v=4">
+</p>)
 
 http://activf2017.blogspot.com/ - Переходим!
 [Основной сайт - полная информация](http://activf2017.blogspot.com/)
